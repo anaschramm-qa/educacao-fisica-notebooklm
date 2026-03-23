@@ -51,6 +51,17 @@ Para a construção deste material, foram utilizados:
 
 ---
 
+## 📚 Fontes
+
+## 📚 Fontes
+
+- [Atividade Física, Aptidão Física e Saúde (RBAFS)](https://rbafs.org.br/RBAFS/article/view/451/495)  
+- [Importância da aptidão física relacionada à saúde (UFSC)](https://periodicos.ufsc.br/index.php/rbcdh/article/view/3963/3364)  
+- [Aptidão física, saúde e qualidade de vida relacionada à saúde em adultos (SciELO)](https://www.scielo.br/j/rbme/a/7WvcGv53qG8x4V5ndjfscMD/?format=html&lang=pt)  
+- [Revista Observatorio del Deporte - O CONCEITO DE ESPORTE COMO FENÖMENO GLOBALIZADO](https://bkp.revistaobservatoriodeldeporte.cl/gallery/11%20oficial%20articulo%20vol%201%20num%201%202015%20rev%20odep.pdf)   
+
+---
+
 ## 📎 Considerações Finais
 
 Este projeto representa não apenas um estudo teórico, mas também um passo importante na construção de conhecimento aplicado na área de **Educação Física**, com foco em saúde, bem-estar e performance.
