@@ -88,9 +88,9 @@ Conceito sociológico (de Pierre Bourdieu) que descreve as estruturas de percep�
 
 ## 📎 Prompts usados e refinados:
 
-Crie um resumo estruturado sobre , dividido em definição, principais conceitos e aplicações práticas.
-Crie um resumo estruturado sobre o assunto utilizando as fontes anexadas com menos de 10 linhas
-Crie um glossário resumido com os termos mais importantes sobre aptidão física, saúde e esporte, ideal para revisão rápida.
-Explique sobre a importância da aptidão fisica com base em conceitos científicos, incluindo definições técnicas e exemplos práticos.
+* Crie um resumo estruturado sobre , dividido em definição, principais conceitos e aplicações práticas.
+* Crie um resumo estruturado sobre o assunto utilizando as fontes anexadas com menos de 10 linhas
+* Crie um glossário resumido com os termos mais importantes sobre aptidão física, saúde e esporte, ideal para revisão rápida.
+* Explique sobre a importância da aptidão fisica com base em conceitos científicos, incluindo definições técnicas e exemplos práticos.
 
 
